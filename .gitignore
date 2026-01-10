@@ -1,0 +1,21 @@
+# Root
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js (in web/)
+web/.next/
+web/out/
+web/node_modules/
+web/test-results/
+web/playwright-report/
+
+# Env
+.env
+.env.*
+
